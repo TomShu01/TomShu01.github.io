@@ -1,0 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+config.json
+index_template.html
+job_posting.txt
+portfolio_generator.py
